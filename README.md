@@ -2,7 +2,7 @@
   <h2>Melissa Fernandes</h2>
   <h3> 🌒 🌓 🌕 🌗 🌘 </h3>
   <p>
-    🌱 dev front end em aprendizado<br>
+    🌱 frontend dev<br>
     👯 aberta a novas oportunidades<br>
     📫 melissafernandes93@yahoo.com.br<br>
     ⚡ fã de Star Trek, Person of Interest e Mr Robot
