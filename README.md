@@ -3,7 +3,6 @@
   <h3> 🌒 🌓 🌕 🌗 🌘 </h3>
   <p>
     🌱 frontend dev<br>
-    👯 aberta a novas oportunidades<br>
     📫 melissafernandes93@yahoo.com.br<br>
     ⚡ fã de Star Trek, Person of Interest e Mr Robot
     
